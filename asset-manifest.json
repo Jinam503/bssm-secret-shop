@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bssm-secret-shop/static/css/main.61c92006.css",
-    "main.js": "/bssm-secret-shop/static/js/main.c61ef6bc.js",
+    "main.js": "/bssm-secret-shop/static/js/main.85494e17.js",
     "index.html": "/bssm-secret-shop/index.html",
     "main.61c92006.css.map": "/bssm-secret-shop/static/css/main.61c92006.css.map",
-    "main.c61ef6bc.js.map": "/bssm-secret-shop/static/js/main.c61ef6bc.js.map"
+    "main.85494e17.js.map": "/bssm-secret-shop/static/js/main.85494e17.js.map"
   },
   "entrypoints": [
     "static/css/main.61c92006.css",
-    "static/js/main.c61ef6bc.js"
+    "static/js/main.85494e17.js"
   ]
 }
